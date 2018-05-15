@@ -1,0 +1,61 @@
+#article{
+	color:white;
+	background-color: gray;
+	width:70%;
+	margin: 10px;
+	position: static;
+	float: right;
+}
+
+.table{
+	
+	border-width: 3px;
+	border-style: outset;
+	background-color: rgba(128,128,128, 0.15);
+	width:300px;
+	float:left;
+	margin:10px;
+
+}
+
+.tableCell{
+
+	width:150px;
+
+}
+
+#cellBlack {
+
+background-color: black;
+
+}
+
+#cellBlue {
+
+background-color: blue;
+
+}
+ 
+ #cellWhite {
+
+background-color: white;
+
+ }
+
+ #cellGreen {
+
+background-color: green;
+
+ }
+
+#cellGray {
+
+background-color: gray;
+
+}
+
+#cellRed {
+
+background-color: red;
+
+}
